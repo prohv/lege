@@ -1,2 +1,6 @@
 #docs
 tech-requirements.md
+
+# Environment variables
+.env
+.env*.local
